@@ -1,10 +1,10 @@
-h1, p{    
-    front-size: 40px;
-    color: orange;
-    front-style: italic;
+.p2{
+    color: blue;
+    font-size: 20px;
 }
-body{
-    background-color: green;
+#p1{
+    font-weight: bold;
 }
-
-
+#p2{
+    color: green;
+}
